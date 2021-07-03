@@ -2,5 +2,5 @@
 	"name": "2v2_maps",
 	"description": "tournaments",
 	"update_timestamp": 1602437019,
-	"url_format": "https://raw.githubusercontent.com/Drippyy2312/Grenades/main/KODAK_HELPER_1./%map%json
+	"url_format": {"https://raw.githubusercontent.com/Drippyy2312/Grenades/main/KODAK_HELPER_1./%map%json
 }
