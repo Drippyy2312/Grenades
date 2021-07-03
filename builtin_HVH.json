@@ -2,5 +2,5 @@
 	"name": "Built-in (Kodak)",
 	"description": "HvH mollys, nades and oneways",
 	"update_timestamp": 1602437019,
-	"url_format": "https://raw.githubusercontent.com/Drippyy2312/Grenades/main/builtin_locs.json"
+	"url_format": "https://raw.githubusercontent.com/Drippyy2312/Grenades/main/builtin_locs./%map%json"
 }
